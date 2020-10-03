@@ -15,4 +15,5 @@ class TweetsController < ApplicationController
     params.permit(:text)
   end
   
+  
 end
